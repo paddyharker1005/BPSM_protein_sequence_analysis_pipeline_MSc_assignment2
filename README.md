@@ -27,5 +27,8 @@ proseqfunctions.py
 README.md
 ```
 
+### 3. Dependencies
+
+To be updated...
 
 
